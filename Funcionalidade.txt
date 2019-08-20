@@ -1,0 +1,7 @@
+é possível adquirir dados de latitude e longitude durante um deslocamento executado por você e plotar um gráfico. Esse pode ser feito utilizando os Softwares Excel, Origin ou até mesmo o LabView, ele irá formar um mapa com a trajetória percorrida.
+
+Módulo GPS NEO-6M	Arduino UNO
+VCC	5V
+RX	Pino 9
+TX	Pino 8
+GND	GND
