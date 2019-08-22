@@ -1,2 +1,2 @@
 # GPSEncode
-GPS code for real time location on arduino
+GPS code for real time location
