@@ -20,9 +20,9 @@ void loop(){
       
       if (GPS.date.isValid())
       {
-        Serial.print(GPS.date.day());
-        Serial.print(F("/"));
         Serial.print(GPS.date.month());
+        Serial.print(F("/"));
+        Serial.print(GPS.date.day());
         Serial.print(F("/"));
         Serial.println(GPS.date.year());
       }
